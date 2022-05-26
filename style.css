@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Open=Sans&dispaly=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@600&display=swap");
 
 :root {
   --success-color: #2ecc71;
@@ -12,7 +12,7 @@
 
 body {
   background-color: #f9fafb;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Cairo", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
